@@ -1,0 +1,16 @@
+C:\Users\banya\OneDrive\Desktop\C#1\Example002_User\bin\Debug\net6.0\Example002_User.exe
+C:\Users\banya\OneDrive\Desktop\C#1\Example002_User\bin\Debug\net6.0\Example002_User.deps.json
+C:\Users\banya\OneDrive\Desktop\C#1\Example002_User\bin\Debug\net6.0\Example002_User.runtimeconfig.json
+C:\Users\banya\OneDrive\Desktop\C#1\Example002_User\bin\Debug\net6.0\Example002_User.dll
+C:\Users\banya\OneDrive\Desktop\C#1\Example002_User\bin\Debug\net6.0\ref\Example002_User.dll
+C:\Users\banya\OneDrive\Desktop\C#1\Example002_User\bin\Debug\net6.0\Example002_User.pdb
+C:\Users\banya\OneDrive\Desktop\C#1\Example002_User\obj\Debug\net6.0\Example002_User.GlobalUsings.g.cs
+C:\Users\banya\OneDrive\Desktop\C#1\Example002_User\obj\Debug\net6.0\Example002_User.csproj.AssemblyReference.cache
+C:\Users\banya\OneDrive\Desktop\C#1\Example002_User\obj\Debug\net6.0\Example002_User.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\banya\OneDrive\Desktop\C#1\Example002_User\obj\Debug\net6.0\Example002_User.AssemblyInfoInputs.cache
+C:\Users\banya\OneDrive\Desktop\C#1\Example002_User\obj\Debug\net6.0\Example002_User.AssemblyInfo.cs
+C:\Users\banya\OneDrive\Desktop\C#1\Example002_User\obj\Debug\net6.0\Example002_User.csproj.CoreCompileInputs.cache
+C:\Users\banya\OneDrive\Desktop\C#1\Example002_User\obj\Debug\net6.0\Example002_User.dll
+C:\Users\banya\OneDrive\Desktop\C#1\Example002_User\obj\Debug\net6.0\ref\Example002_User.dll
+C:\Users\banya\OneDrive\Desktop\C#1\Example002_User\obj\Debug\net6.0\Example002_User.pdb
+C:\Users\banya\OneDrive\Desktop\C#1\Example002_User\obj\Debug\net6.0\Example002_User.genruntimeconfig.cache
